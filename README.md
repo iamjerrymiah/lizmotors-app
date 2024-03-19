@@ -18,7 +18,9 @@ TECHNICALS
 5. REACT ICONS
 
 This application is responsive for all device sizes and compatible with all browsers.
+
 Hovering over to see details was implemented in B2C section [when hovered on displays details below the image].
+
 Easy to the eye design, great demostration of the timeline-mindmap.
 
 
