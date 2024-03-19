@@ -1,13 +1,15 @@
-<!-- LIZMOTORS INTERNSHIP ASSIGNMENT -->
+LIZMOTORS INTERNSHIP ASSIGNMENT
 This application illustrate easy navigation of all the steps listed below. 
 1. Market Research
 2. Planning
 3. Design
 4. Manufacturing
 5. Sales
+
+
 The sole purpose of this design and development is to demostrate how a user can easily navigate the steps listed above with ease and followed required timeline-mindmap for this assignment.
 
-<!-- TECHNICALS -->
+TECHNICALS
 1. REACT
 2. TAILWIDCSS
 3. CHAKRA UI (component UI library)
