@@ -1,4 +1,5 @@
 LIZMOTORS INTERNSHIP ASSIGNMENT
+
 This application illustrate easy navigation of all the steps listed below. 
 1. Market Research
 2. Planning
