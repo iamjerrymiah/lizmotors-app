@@ -53,7 +53,7 @@ export default function Sidebar({show, toggleSideBar}) {
             <DrawerOverlay />
             <DrawerContent>
             <DrawerCloseButton />
-            <DrawerBody bgColor='#000080'>
+            <DrawerBody bgColor='#87CEEB'>
                 <Content
                     toggleSideBar={toggleSideBar}
                 />

@@ -21,7 +21,7 @@ export default function HoverableDiv ({ src, detail }) {
             objectFit='cover'
             cursor='pointer'
             w='100%'
-            h={[ '100%', '250px' ]}
+            h={[ '150px', '200px' ]}
         />
         {isHovering && <HoverText detail={detail}/>}
       </div>
@@ -31,6 +31,6 @@ export default function HoverableDiv ({ src, detail }) {
 
   export const HoverText = ({ detail }) => {
     return (
-        <Box fontSize='12px'>{detail}</Box>
+        <Box fontSize='12px' color={[ '#fff', '#000' ]}>{detail}</Box>
     );
   };

@@ -21,7 +21,7 @@ function MenuTab({
                                 fontWeight={400}
                                 borderRadius='4px'
                                 margin={['0 3px', '0 8px']}
-                                _selected={{ bgColor: '#000080' }}
+                                _selected={{ bgColor: '#87CEEB' }}
                                 key={index}
                                 minW={['120px', '160px']}
                                 onClick={e => tabCallback && tabCallback(e.target.innerText)}
@@ -35,9 +35,10 @@ function MenuTab({
                     {tabHead?.map((head, index) => (
                         <Tab
                             key={index}
+                            color={[ '#fff', '#fff', '#fff', '#1a1616' ]}
                             fontSize={['12px', '14px', '14px']}
                             fontWeight={600}
-                            _selected={{ fontWeight: 600, bgColor: '#000080', color: '#fff' }}
+                            _selected={{ fontWeight: 600, bgColor: '#87CEEB', color: '#fff' }}
                             border={custom ? '' : ''}
                             borderRadius='4px'
                             onClick={e => tabCallback && tabCallback(e.target.innerText)}

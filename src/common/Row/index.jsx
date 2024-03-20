@@ -24,7 +24,7 @@ const Row = ({title, carData}) => {
 
     return (
         <div className="h-40 space-y-0.5 md:space-y-2">
-          <h2 className="w-56 cursor-pointer text-sm font-semibold text-[#1a1616] transition duration-200 hover:text-white md:text-2xl">
+          <h2 className="w-56 cursor-pointer text-sm font-semibold text-[#fff] md:text-[#1a1616] transition duration-200 hover:text-white md:text-2xl">
             {title}
           </h2>
           <div className="group relative md:-ml-2">

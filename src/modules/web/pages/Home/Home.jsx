@@ -12,7 +12,6 @@ export default function Home() {
             autoPlay
             className="-z-10 object-cover w-full h-full"
           />
-    
         <div
             className="absolute left-4 top-4 cursor-pointer object-contain md:left-10 md:top-6 text-[#fff] md:text-4xl text-2xl font-semibold"
         >Lizmotors</div>

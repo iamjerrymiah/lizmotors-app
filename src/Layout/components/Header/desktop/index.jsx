@@ -21,7 +21,7 @@ const HeaderStyle = ({children}) => (
 )
 const Wrapper = ({ children }) => (
     <Box
-        bgColor='#000080'
+        bgColor='#87CEEB'
         pos='fixed'
         top='0px'
         w='full'

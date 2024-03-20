@@ -5,7 +5,7 @@ import Helmet from 'react-helmet';
 
 function Main({ children, fullPage }) {
     return (
-        <main className='w-full min-h-[77vh] pt-5 pb-[80px] px-[24px] md:px-[60px]'>
+        <main className='w-full min-h-[77vh] pt-5 pb-[80px] px-[24px] md:px-[60px] '>
             {children}
         </main>
     )
