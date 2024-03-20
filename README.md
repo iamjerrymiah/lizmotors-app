@@ -1,5 +1,9 @@
 LIZMOTORS INTERNSHIP ASSIGNMENT
 
+npm install to get libraries
+
+npm start to run application
+
 This application illustrate easy navigation of all the steps listed below. 
 1. Market Research
 2. Planning
