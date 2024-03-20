@@ -25,7 +25,7 @@ const Link = styled(RouterLink)`
 export const headerLinks = [
     {
         title: "RESEARCH",
-        url: "/home",
+        url: "/research",
     },
     {
         title: "PLANNING",

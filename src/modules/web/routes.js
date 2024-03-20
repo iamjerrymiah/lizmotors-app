@@ -11,7 +11,7 @@ const B2c = lazy(() => import("./pages/B2c/B2c"))
 
 const routes = [
     {
-        path: "/home",
+        path: "/research",
         component: Home,
         exact: true,
         auth: false,
@@ -46,7 +46,7 @@ const routes = [
         layout: MainAppLayout,
     },
     {
-        path: "/b2c",
+        path: "/research/b2c",
         component: B2c,
         exact: true,
         auth: false,

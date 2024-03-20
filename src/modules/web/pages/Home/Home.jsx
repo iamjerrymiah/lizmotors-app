@@ -20,7 +20,7 @@ export default function Home() {
             <h1 className="md:text-5xl text-3xl font-bold w-full">Take me to Lizmotors, <br />where dreams come true.</h1>
             <div className='md:text-xl text-md font-semibold'>Get best car manufacturing deals worldwide</div>
     
-            <Link to='/home'>
+            <Link to='/research'>
                 <button className="w-[200px] rounded bg-[#87CEEB] text-[#fff] py-3 mt-10 mb-3 font-semibold">
                     Explore
                 </button>
