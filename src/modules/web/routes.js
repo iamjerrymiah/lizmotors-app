@@ -46,7 +46,7 @@ const routes = [
         layout: MainAppLayout,
     },
     {
-        path: "/research/b2c",
+        path: "/research/external/b2c",
         component: B2c,
         exact: true,
         auth: false,
